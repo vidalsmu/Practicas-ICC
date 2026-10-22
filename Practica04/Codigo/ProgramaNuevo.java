@@ -18,7 +18,8 @@ public class ProgramaNuevo{
 	System.out.printf("- Pago mensual : %.2f", ((precio - descuento) / meses));
 	System.out.println("=== Fin de la ficha ===");
     */
-
+    
+    //Funciona poniendo primero el texto que quiero imprimir seguido de un % y una letra dependiendo del tipo de variable, al final el nombre de las variables que quiero imprimir o sus operaciones
     System.out.printf("=== Ficha de compra ===, -Producto: %s, -Precio con descuento: %d, -Plazo de pago en anios: %.1f, -Pago mensual: %.2f, ===Ficha de compra=== \n", producto, (precio - descuento), (meses / 12), (precio - descuento) / meses);
 
 	}
