@@ -10,7 +10,7 @@ public class Errores {
         System.out.println("Folio en binario: " + Integer.toBinaryString(26));
         System.out.println("Clave descifrada: " + Integer.parseInt("100111", 2));
         System.out.println("Fin de la ficha");
-        System.out.println("Hola");
+        System.out.println("Hola")
         
     }
 }
