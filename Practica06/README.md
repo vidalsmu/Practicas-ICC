@@ -14,7 +14,7 @@ Readme.md
 ## Valores para probar
 ### Opcion 1
 - Tipo de cliente : Estándar
-- Capital del préstamo : 12899,00
+- Capital del préstamo : 12899
 - Tasa anual : 15
 - Plazo en meses : 21
 - Interés simple = 3385,99
