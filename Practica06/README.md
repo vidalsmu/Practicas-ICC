@@ -7,7 +7,16 @@ Este proyecto contiene 3 programa:
 - Cabana Del Misterio: Programa que facilita los cálculos para un préstamo y todo lo necesario, el usuario ingresa todos los valores y elige que hacer a través de un menú. (Actividad 2.1)
 ## Estructura
 Readme.md
-src código fuente (.java)
-bin archivos compilador(.class)
-docs reporte en pdf
-images capturas de pantalla
+- src código fuente (.java)
+- bin archivos compilador(.class)
+- docs reporte en pdf
+- images capturas de pantalla
+## Valores para probar
+# Opcion 1
+- Tipo de cliente : Estándar
+- Capital del préstamo : 12899,00
+- Tasa anual : 15
+- Plazo en meses : 21
+- > Interés simple = 3385,99
+- > Total a pagar = 16284,99
+
