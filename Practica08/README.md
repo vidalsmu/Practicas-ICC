@@ -17,12 +17,12 @@ Ejecuta los siguientes comandos desde la terminal ubicado en la raíz de esta ca
 
 ### 1. Compilación
 ```bash
-<javac -d bin src /*. java>
+javac -d bin src /*. java
 ```
 
 ### 2. Ejecución de la verificación
 ```bash
-<java - cp bin PruebaPunto>
+java - cp bin PruebaPunto
 ```
 
 ### 3. Generación de documentación Javadoc
