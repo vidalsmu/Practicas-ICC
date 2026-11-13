@@ -7,7 +7,7 @@
 
 ## Descripción de la práctica
 
-Breve descripción de los ejercicios realizados.
+Se creó la clase Punto, se crearon constructores para iniciar posiciones, métodos get y set para modificar datos, funciones para desplazar puntos, calcular distancias y hallar puntos medios, también se puede saber en que parametro de una recta se ubica un punto, expresar correctamente sus coordenadas, compararlo con otros usando una tolerancia para decimales y comprobar si tres puntos están alineados en una misma línea recta.
 >
 ---
 
