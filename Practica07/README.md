@@ -25,7 +25,7 @@ El proyecto consiste en un programa que considera carcterísticas de un paquete 
 
 ### 3. Generación de documentación Javadoc
 ```bash
-# javadoc -d docs -private -encoding UTF-8
+# javadoc -d docs -private -encoding UTF-8 src/Paquete.java
 
 ```
 
