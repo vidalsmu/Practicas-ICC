@@ -113,4 +113,4 @@ Envío Express: false
 
 3. **Si una guía `envio1` se descarta (`envio1 = null;`), ¿qué ocurre en memoria con los objetos `Persona` (remitente/destinatario) y `Paquete` que estaban asociados a ella?**
    > Al hacer envio1 = null esa guía ya no está referenciada y los objetos Persona y Paquete que tenía asociados solo se pueden eliminar en memoria si ninguna otra variable o guía los sigue usando
-   Si otra guía o variable sí apunta a ellos, siguen existiendo ahí.
+   Si otra guía o variable sí apunta a ellos siguen existiendo ahí
