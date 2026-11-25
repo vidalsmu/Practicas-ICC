@@ -112,5 +112,5 @@ Envío Express: false
    Si fuera un atributo normal de instancia cada Envio tendría su propia copia independiente del contador y no se llevaría un conteo consecutivo ni el total de todas las guías creadas
 
 3. **Si una guía `envio1` se descarta (`envio1 = null;`), ¿qué ocurre en memoria con los objetos `Persona` (remitente/destinatario) y `Paquete` que estaban asociados a ella?**
-   > Al hacer envio1 = null esa guía ya no está referenciada y los objetos Persona y Paquete que tenía asociados solo se pueden eliminar en memoria si ninguna otra variable o guía los sigue usando
-   Si otra guía o variable sí apunta a ellos siguen existiendo ahí
+   > Al hacer envio1 = null esa guia ya no esta referenciada y los objetos Persona y Paquete que tenía asociados solo se pueden eliminar en memoria si ninguna otra variable o guia los sigue usando
+   Si otra guia o variable si apunta a ellos siguen existiendo ahí
